@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "port": "COM6",
+    "sketch": "week1\\lineFollow\\lineFollow.ino"
+}
